@@ -1,4 +1,4 @@
-import game
+import game, editor
 
 if __name__ == "__main__":
-    game.Game().run()
+    editor.Editor().run()
